@@ -1,0 +1,32 @@
+name: Feature request
+description: Propose an improvement to a Lithium project.
+title: "Feature: "
+labels:
+  - enhancement
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or component
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the user or developer problem this proposal addresses.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe the intended behavior and alternatives considered.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Protocol impact
+      description: Note any contract, deployment, compatibility, or migration considerations.
+
