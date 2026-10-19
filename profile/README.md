@@ -21,7 +21,7 @@ against native Litecoin collateral on LitVM.
 | Component | Description |
 | --- | --- |
 | Lending market | Supply USDC and borrow USDC against native zkLTC collateral |
-| Contracts | Open-source lending contracts, deployment records, and verification inputs |
+| Contracts | Public lending contracts, deployment records, and verification inputs |
 | Interface | Wallet-native market, faucet, account history, and protocol documentation |
 | Community | Public proposals, questions, integration help, and ecosystem updates |
 
