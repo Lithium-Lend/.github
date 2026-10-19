@@ -11,7 +11,7 @@ against native Litecoin collateral on LitVM.
   <a href="https://www.lithiumlend.com/app">Application</a> ·
   <a href="https://www.lithiumlend.com/docs">Documentation</a> ·
   <a href="https://www.lithiumlend.com/app/faucet">Faucet</a> ·
-  <a href="https://github.com/orgs/Lithium-Lend/discussions">Discussions</a> ·
+  <a href="https://github.com/Lithium-Lend/community/discussions">Discussions</a> ·
   <a href="https://x.com/lithiumlend">X</a> ·
   <a href="https://discord.gg/kfYspqQXhe">Discord</a>
 </p>
