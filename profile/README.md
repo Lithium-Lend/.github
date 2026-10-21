@@ -4,8 +4,9 @@
 
 # Lithium
 
-Lithium is a non-custodial lending protocol for supplying USDC and borrowing
-against native Litecoin collateral on LitVM.
+Lithium is a non-custodial lending protocol with independent USDC, USDT, and
+native zkLTC markets on LitVM. Borrow stablecoins against zkLTC, or borrow zkLTC
+against USDC.
 
 <p>
   <a href="https://www.lithiumlend.com/app">Application</a> ·
@@ -20,7 +21,7 @@ against native Litecoin collateral on LitVM.
 
 | Component | Description |
 | --- | --- |
-| Lending market | Supply USDC and borrow USDC against native zkLTC collateral |
+| Lending markets | Supply or borrow USDC, USDT, and zkLTC in separate markets |
 | Contracts | Public lending contracts, deployment records, and verification inputs |
 | Interface | Wallet-native market, faucet, account history, and protocol documentation |
 | Community | Public proposals, questions, integration help, and ecosystem updates |
@@ -33,6 +34,12 @@ against native Litecoin collateral on LitVM.
 | Chain ID | `4441` |
 | Native asset | `zkLTC` |
 | Explorer | [LiteForge Explorer](https://liteforge.explorer.caldera.xyz) |
+
+| Market | Collateral | Application |
+| --- | --- | --- |
+| USDC | Native zkLTC | [USDC market](https://www.lithiumlend.com/app?market=usdc) |
+| USDT | Native zkLTC | [USDT market](https://www.lithiumlend.com/app?market=usdt) |
+| zkLTC | USDC | [zkLTC market](https://www.lithiumlend.com/app?market=zkltc) |
 
 ## Repositories
 
